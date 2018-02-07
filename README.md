@@ -2,11 +2,11 @@
 
 Private Repository for HW assignments of Stat 133 (Spring 2018)
 
-- Name: Your name (first last)
-- Github username: usrname
-- Email: address [at] email.com
+- Name: Yuli Wang
+- Github username: juliewang22
+- Email: address yuliwang22@berkeley.edu
 - Lab section: 101
-- GSI: Leia Organa
+- GSI: Jin Kweon
 
 -----
 
